@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago.grigull\\source\\repos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {}
+    "C:\\Users\\lucas.salvador2\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago.grigull\\source\\repos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {
+    "C:\\Users\\lucas.salvador2\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.grigull\\source\\repos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.salvador2\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
         "projectName": "SuperCalculadora",
-        "projectPath": "C:\\Users\\tiago.grigull\\source\\repos\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
-        "packagesPath": "C:\\Users\\tiago.grigull\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.grigull\\source\\repos\\SuperCalculadora\\SuperCalculadora\\obj\\",
+        "projectPath": "C:\\Users\\lucas.salvador2\\Documents\\SuperCalculadora\\SuperCalculadora\\SuperCalculadora.csproj",
+        "packagesPath": "C:\\Users\\lucas.salvador2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.salvador2\\Documents\\SuperCalculadora\\SuperCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tiago.grigull\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas.salvador2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

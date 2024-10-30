@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SuperCalculadora
 {
-    internal class Operacao
+    public interface IOperacao
     {
+        double Calcular(double numn1, double num2);
     }
 }

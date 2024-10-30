@@ -8,5 +8,6 @@ namespace SuperCalculadora
 {
     internal class Divisao
     {
+
     }
 }

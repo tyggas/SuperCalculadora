@@ -11,6 +11,7 @@ namespace SuperCalculadora
         public double Calcular(double numn1, double num2)
         {
             return numn1 * num2;
+            
         }
     }
 }

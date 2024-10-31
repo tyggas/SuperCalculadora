@@ -8,9 +8,9 @@ namespace SuperCalculadora
 {
     public class Adicao : IOperacao
     {
-        public double Calcular(double numn1, double num2)
+        public double Calcular(double num1, double num2)
         {
-            return numn1 + num2;
+            return num1 + num2;
         }
     }
 }

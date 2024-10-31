@@ -8,6 +8,6 @@ namespace SuperCalculadora
 {
     public interface IOperacao
     {
-        double Calcular(double numn1, double num2);
+        double Calcular(double num1, double num2);
     }
 }

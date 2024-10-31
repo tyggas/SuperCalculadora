@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace SuperCalculadora
 {
-    internal class Divisao
+    public class Divisao : IOperacao
     {
-
+        public double Calcular(double num1, double num2)
+        {
+            return num1 / num2;
+        }
     }
 }

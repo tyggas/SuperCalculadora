@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/SuperCalculadora/obj/Debug/net6.0/SuperCalculadora.assets.cache
+/SuperCalculadora/obj/Debug/net6.0/SuperCalculadora.GeneratedMSBuildEditorConfig.editorconfig

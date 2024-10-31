@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SuperCalculadora
 {
-    internal class Adicao
+    public class Adicao : IOperacao
     {
+        public double Calcular(double numn1, double num2)
+        {
+            return numn1 + num2;
+        }
     }
 }
